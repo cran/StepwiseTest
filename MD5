@@ -1,0 +1,9 @@
+7f5d7c32bec1a7c0a729cb779cd48aa8 *DESCRIPTION
+0144caf44016c4ac97addd088f29b206 *NAMESPACE
+d0837ed5811c1c9c828a9eae21c4708c *R/RcppExports.R
+ada23d0e2a2da1947505a5a70fa6851e *build/partial.rdb
+07bc74beb198acd29facbc397bf1d35a *man/StepwiseTest-package.Rd
+2a6f9e9e044a78154d3cfda5936d6f48 *src/Makevars
+8d46d69896a1f1d31ed76035a0e49d67 *src/Makevars.win
+1717cd7a11484483589bba54f5040296 *src/RcppExports.cpp
+25790ac80c44cb6614040c08ed65d8e6 *src/StepwiseTest.cpp
